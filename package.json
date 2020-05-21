@@ -8,8 +8,13 @@
     "start": "next start"
   },
   "dependencies": {
+    "@now/node": "^1.6.1",
     "next": "^9.3.3",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.35",
+    "typescript": "^3.9.3"
   }
 }
